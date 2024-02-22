@@ -1,0 +1,10 @@
+@import 'variable';
+footer{
+    padding: 20px;
+    background-color:$bg_041c35;
+    color: $color_white;
+    text-align: center;
+    .year{
+        color: $color_white;
+    }
+}
